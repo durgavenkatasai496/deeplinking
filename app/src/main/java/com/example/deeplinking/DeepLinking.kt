@@ -3,8 +3,8 @@ package com.example.deeplinking
 /*
  * ✅ What is Deep Linking in Android?
  *
-Deep Linking:
-Deep linking is a type of URL that, when clicked, opens a specific screen or destination inside the app,
+ * Deep Linking:
+ * Deep linking is a type of URL that, when clicked, opens a specific screen or destination inside the app,
  *
  * 🔹 It enhances user experience by:
  *    - Opening the relevant content directly inside the app
